@@ -12,7 +12,7 @@
     "fmt": "clang-format -i *.ts"
   },
   "dependencies": {
-    "source-map-support": "^0.4.11",
+    "source-map-support": "^0.5.18",
     "typescript": "~3.5.3"
   },
   "devDependencies": {
